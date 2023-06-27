@@ -1,0 +1,7 @@
+@media screen and (max-width: 685px) {
+  #shopping-items {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+}
